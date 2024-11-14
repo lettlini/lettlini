@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Kolya Lettl 👋
 
-<!--
-**lettlini/lettlini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Mathematical Physics student passionate about the intersection of mathematics, programming, and machine learning. My focus lies in applying advanced computational techniques to solve complex scientific problems, particularly in the field of cancer research.
 
-Here are some ideas to get you started:
+## 🔭 Current Interests
+- Geometric Deep Learning and Graph Neural Networks
+- Computational approaches in cancer research
+- Open-source scientific software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+- **Languages**: Python (Experienced), Bash (Advanced)
+- **Technologies**: Git, Linux, PyTorch, PyTorch Geometric
+- **Domains**: Machine Learning, Graph Theory, Image Analysis, Network Analysis
+
+## 🎓 Education
+- M.Sc. Mathematical Physics, Leipzig University (ongoing)
+- B.Sc. Physics, Leipzig University (2020)
+
+## 📫 How to reach me
+- Email: [klettl@posteo.com](mailto:klettl@posteo.com)
+- LinkedIn: [in/kolya-lettl](https://linkedin.com/in/kolya-lettl)
+- GitHub: [github.com/lettlini](https://github.com/lettlini)
+
+I'm enthusiastic about leveraging machine learning and mathematics to tackle pressing real-world challenges, particularly at the intersection of physics and biology. Always open to collaboration and new learning opportunities!
