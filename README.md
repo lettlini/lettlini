@@ -18,7 +18,6 @@ I'm a Mathematical Physics student passionate about the intersection of mathemat
 - B.Sc. Physics, Leipzig University (2020)
 
 ## 📫 How to reach me
-- Email: [klettl@posteo.com](mailto:klettl@posteo.com)
 - LinkedIn: [in/kolya-lettl](https://linkedin.com/in/kolya-lettl)
 - GitHub: [github.com/lettlini](https://github.com/lettlini)
 
