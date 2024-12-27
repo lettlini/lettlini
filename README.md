@@ -1,7 +1,10 @@
 # Hello, I'm Kolya Lettl 👋
 
 ## About Me
-I'm a Mathematical Physics student passionate about the intersection of mathematics, programming, and machine learning. My focus lies in applying advanced computational techniques to solve complex scientific problems, particularly in the field of cancer research.
+I'm a PhD student passionate about the intersection of
+mathematics, programming, and machine learning.
+My focus lies in applying advanced computational techniques to solve complex
+scientific problems, particularly in the field of cancer research.
 
 ## 🔭 Current Interests
 - Geometric Deep Learning and Graph Neural Networks
@@ -14,7 +17,7 @@ I'm a Mathematical Physics student passionate about the intersection of mathemat
 - **Domains**: Machine Learning, Graph Theory, Image Analysis, Network Analysis
 
 ## 🎓 Education
-- M.Sc. Mathematical Physics, Leipzig University (ongoing)
+- M.Sc. Mathematical Physics, Leipzig University (2024)
 - B.Sc. Physics, Leipzig University (2020)
 
 ## 📫 How to reach me
