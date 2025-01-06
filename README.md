@@ -1,4 +1,4 @@
-# Hello, I'm Kolya Lettl 👋
+# Hello, I'm Kolya 👋
 
 ## About Me
 I'm a PhD student passionate about the intersection of
