@@ -13,7 +13,7 @@ scientific problems, particularly in the field of cancer research.
 
 ## 🌱 Skills
 - **Languages**: Python (Experienced), Bash (Advanced)
-- **Technologies**: Git, Linux, PyTorch, PyTorch Geometric
+- **Technologies**: Git, Linux, PyTorch, PyTorch Geometric, Nextflow, SLURM
 - **Domains**: Machine Learning, Graph Theory, Image Analysis, Network Analysis
 
 ## 🎓 Education
